@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745927947144",
+    "firebase_url": "https://esp32-32f68-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp32-32f68",
+    "storage_bucket": "esp32-32f68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745927947144:android:44b44b0ae0c2e6826d803d",
+        "android_client_info": {
+          "package_name": "net.kerp.barrel_bros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745927947144-77l8mbuch2eqvkch4v5p93hdabdndb3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbiecZ5Ve_Tg3iLHvV0OhqLjrPeimnpNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745927947144-77l8mbuch2eqvkch4v5p93hdabdndb3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
