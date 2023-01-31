@@ -9,3 +9,5 @@ data from Arduino Sensors and perform calculations with this data to be displaye
 
 
 <img width="333" alt="63%" src="https://user-images.githubusercontent.com/53789337/215844415-789d0e30-32e3-4ef9-bda2-7601220c2f04.png">
+
+<img width="333" alt="0%" src="https://user-images.githubusercontent.com/53789337/215844582-91ee13ab-6ef7-4af4-9725-e312f530dc6b.png">
