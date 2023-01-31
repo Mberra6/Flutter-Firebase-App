@@ -6,3 +6,6 @@ The application shown here implements the home page for the desired final applic
 data from Arduino Sensors and perform calculations with this data to be displayed in the application.
 
 <img width="333" alt="100%" src="https://user-images.githubusercontent.com/53789337/215844181-9e654f61-19a9-4ce9-b7f7-c7f5bab66603.png">
+
+
+<img width="333" alt="63%" src="https://user-images.githubusercontent.com/53789337/215844415-789d0e30-32e3-4ef9-bda2-7601220c2f04.png">
